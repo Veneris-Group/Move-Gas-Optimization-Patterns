@@ -1,0 +1,8 @@
+name = "Limit Function Calls"
+version = "0.0.0"
+
+[addresses]
+move_gas_optimization= "_"
+
+[dependencies]
+AptosFramework = { local = "../../framework/aptos-framework" }
