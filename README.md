@@ -1,6 +1,8 @@
 # Gas Optimization Patterns in Move
 
-This repository contains gas optimization patterns for the Move language on the Aptos blockchain. To experiment with the smart contracts, clone this repository and clone the aptos-core repository
+This repository contains gas optimization patterns for the Move language on the Aptos blockchain. The sample smart contracts are in the `source/` folder. They have been formatted in such a way to be compatible with Aptos.
+
+To experiment with the smart contracts on Aptos, clone this repository and clone the `aptos-core` repository
 
 ```
 git clone https://github.com/Veneris-Group/Move-Gas-Optimization-Patterns.git
